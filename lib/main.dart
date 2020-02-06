@@ -38,7 +38,7 @@ class responsive extends StatelessWidget {
                     spreadRadius: 1.0, //extend the shadow
                     offset: Offset(
                       0.0, // Move to right 10  horizontally
-                      10.0, // Move to bottom 10 Vertically
+                      11.0, // Move to bottom 10 Vertically
                     ),
                   )
                 ],
